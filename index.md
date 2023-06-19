@@ -7,7 +7,7 @@ nav_order: 1
 
 # **BJC Summer Academy: Blue Section**
 {: .mb-2 }
-UC Berkeley, Summer 2022
+UC Berkeley, Summer 2023
 {: .mb-2 .fs-6 .text-grey-dk-100 }
 
 {{ site.description }}
